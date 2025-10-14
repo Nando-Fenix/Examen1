@@ -1,0 +1,1 @@
+import{Ba as n,Ca as a,Ea as c,pa as o}from"./chunk-QGOQ7FF4.js";var i=class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=o({type:e,selectors:[["app-contacto"]],decls:2,vars:0,consts:[["aria-labelledby","titulo-contacto"]],template:function(t,l){t&1&&(n(0,"H2",0),c(1,"CONTACTO"),a())},encapsulation:2})};export{i as Contacto};
